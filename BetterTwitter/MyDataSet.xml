@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Users>
+    <Username>Someone</Username>
+    <IPAddress>0.0.0.0</IPAddress>
+  </Users>
+  <Users>
+    <Username>Test</Username>
+    <IPAddress>138.0.0.1</IPAddress>
+  </Users>
+  <Users>
+    <Username>Test1</Username>
+    <IPAddress>1.1.1.1</IPAddress>
+  </Users>
+</NewDataSet>
